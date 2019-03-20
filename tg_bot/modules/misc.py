@@ -49,6 +49,15 @@ RUN_STRINGS = (
     "എന്നോട് പറ ഐ ലവ് യൂ ന്ന്...",
     "അല്ല ഇതാര് വാര്യംപിള്ളിയിലെ മീനാക്ഷി അല്ലയോ... എന്താ മോളെ സ്കൂട്ടറില്?",
    "മൊതലാളീ... ചങ്ക ചക ചകാ..!!!"
+    "Angane Pavanayi Shavamayi"
+   "Make upnu okke uru paruthi ille dey"
+   "Kambli Puthapu.. kambli puthapu…"
+   "Aaogya Naaye, Enneku durgashtami.."
+   "How many kilometers from Washington D.C. to Miami Beach?"
+   "GET OUTHOUSE. GET OUTHOUSE"
+   "Oru joli kittiyirunnenkil kurach divasam leave eduthu veettilirikkamayirunnu"   
+   "ഹോ... ഒരുത്തന്റെ തന്തക്കു വിളിച്ചപ്പോൾ എന്തൊരു ആശ്വാസം..."
+   "Njaan aaranennu thanikkariyillenkill than ennodu chodikku thaan aaranennu"
 )
 
 SLAP_TEMPLATES = (
